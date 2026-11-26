@@ -15,3 +15,5 @@
 
 ##6. Si descubres hoy un error cometido hace cinco commits, ¿qué haces para arreglarlo?
 -La forma más segura y recomendada es crear un nuevo commit que corrija el fallo o usar el comando git revert si quieres deshacer ese commit específico.
+
+Cambio hecho desde la copia.
